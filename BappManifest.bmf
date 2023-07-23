@@ -1,13 +1,29 @@
-Uuid: 0ab7a94d8e11449daaf0fb387431225b
-ExtensionType: 1
-Name: JS Miner
-RepoName: js-miner
-ScreenVersion: 1.16
-SerialVersion: 8
-MinPlatformVersion: 0
-ProOnly: True
-Author: Mina M. Edwar
-ShortDescription: Tries to find interesting stuff inside static files; mainly JavaScript and JSON files.
-EntryPoint: build/libs/burp-JS-Miner-all.jar
-BuildCommand: ./gradlew fatJar
+Uuid: 0ab7a94d8e11449da
+af0fb387431225b
+ExtensionType: 
+1
+Name:
+JS Miner
+RepoName:
+js-miner
+ScreenVersion: 
+1.16
+SerialVersion:
+8
+MinPlatformVersion:
+0
+ProOnly: 
+True
+Author:
+Mina M. Edwar
+ShortDescription: 
+Tries to find
+interesting stuff
+inside static files;
+mainly JavaScript
+and JSON files
+EntryPoint: build/libs/
+burp-JS-Miner-all.jar
+BuildCommand: ./gradlew
+fatJar
 SupportedProducts: Pro
